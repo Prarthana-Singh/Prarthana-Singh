@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)]
+![MasterHead](https://camo.githubusercontent.com/37a4da575381e6eb7f937878b48ae504dbcd2ea0e8762cce1ff4936c9f8301dc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966)
 <h1 align="center">Hi 👋, I'm Prarthana Singh</h1>
 <h3 align="center">A passionate Data Science student exploring the world of data</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1310/1*f0VO7n7alyQ85pymIH6gyw.gif">
