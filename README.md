@@ -12,6 +12,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+...+I'm+Prarthana+Singh;Welcome+to+my+GitHub+profile;Aspiring+Data+Scientist!;Exploring+new+tech+stacks!;Let's+code+together!&center=true&width=500&height=50&color=FF5733&vCenter=true&size=25" alt="Typing SVG">
 </p>
 
+<!--
+<p align="center"> 
+                                // (sky blue color)
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Data+Science+student+exploring+the+world+of+Data;&center=true&width=500&height=50&color=00BFFF&vCenter=true&size=25" alt="Typing SVG">
+</p> 
+-->
+
 <p align="center">
   <!-- Second Typing Animation (Violet) -->
   <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Data+Science+student+exploring+the+world+of+Data;&center=true&width=500&height=50&color=8A2BE2&vCenter=true&size=25" alt="Typing SVG">
