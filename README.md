@@ -1,4 +1,5 @@
 
+
 ![MasterHead](https://camo.githubusercontent.com/37a4da575381e6eb7f937878b48ae504dbcd2ea0e8762cce1ff4936c9f8301dc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f30612f63382f39653061633832626331376666303037303864613662643039353933313737652e676966)
 <h1 align="center">Hi 👋, I'm Prarthana Singh</h1>
 <h3 align="center">A passionate Data Science student exploring the world of data</h3>
@@ -48,6 +49,7 @@
 
 <hr style="border:2px solid #f00">
 
+# 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prarthana-singh&show_icons=true&locale=en&layout=compact" alt="prarthana-singh" /></p>
 
