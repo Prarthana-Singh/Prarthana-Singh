@@ -102,9 +102,10 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prarthana-Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prarthana-Singh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prarthana-Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prarthana-singh&show_icons=true&locale=en&layout=compact" alt="prarthana-singh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prarthana-singh&show_icons=true&locale=en" alt="prarthana-singh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prarthana-singh&" alt="prarthana-singh" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
