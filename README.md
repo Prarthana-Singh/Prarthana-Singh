@@ -63,7 +63,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/prarthanasinghportfolio/home?authuser=0](https://sites.google.com/view/prarthanasinghportfolio/home?authuser=0)
+- 👨‍💻 All of my projects are available at [https://prarthana-singh.github.io/myportfolio/](https://prarthana-singh.github.io/myportfolio/)
 
 - 💬 Ask me about **Python, SQL, Java**
 
