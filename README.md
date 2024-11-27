@@ -63,13 +63,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://prarthana-singh.github.io/myportfolio/](https://prarthana-singh.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prarthana-singh.github.io/myportfolio/)
 
 - 💬 Ask me about **Python, SQL, Java**
 
 - 📫 How to reach me **prarthanas645@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cGelEUjewo09tZ3i-y9HREFDKPIExfSI/edit?usp=sharing&ouid=102524205763919767605&rtpof=true&sd=true](https://docs.google.com/document/d/1cGelEUjewo09tZ3i-y9HREFDKPIExfSI/edit?usp=sharing&ouid=102524205763919767605&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cWNccHyeuQLrlUdbrWBp8IzjbgKB-j6q/view?usp=sharing)
 
 <hr style="border:2px solid #f00">
 
