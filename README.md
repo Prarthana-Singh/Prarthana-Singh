@@ -58,7 +58,8 @@
 
 <p align="left"> <a href="https://twitter.com/ps3493049" target="blank"><img src="https://img.shields.io/twitter/follow/ps3493049?logo=twitter&style=for-the-badge" alt="ps3493049" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthanasingh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prarthanasingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ps3493049) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthanasingh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prarthanasingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ps3493049) [![YouTube](https://img.shields.io/badge/YouTube-red.svg?logo=youtube&logoColor=white)](https://youtube.com/@deepcodeai3530?si=rA054ZqwAzs3bnX8)
+
 
 
 - 🌱 I’m currently learning **NLP**
