@@ -64,13 +64,11 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prarthana-singh.github.io/myportfolio/)
 
 - 💬 Ask me about **Python, SQL, Java, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **prarthanas645@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cWNccHyeuQLrlUdbrWBp8IzjbgKB-j6q/view?usp=sharing)
 
 <hr style="border:2px solid #f00">
 
