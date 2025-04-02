@@ -1,4 +1,4 @@
-  
+   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=F7DF1E&width=500&height=50&lines=Hi+I'm+Prarthana!;A+Data+Science+Enthusiast;Love+Learning+AI+and+ML" alt="Typing SVG">
 </p>
